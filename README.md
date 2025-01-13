@@ -1,2 +1,2 @@
 # get_some
-get sone know how
+get some know how
